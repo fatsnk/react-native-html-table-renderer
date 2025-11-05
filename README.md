@@ -2,7 +2,7 @@
 
 A custom table renderer for react-native-render-html
 
-轻量级的表格渲染器，用于在移动端渲染marked或其它库将markdown语法转换为HTML后提交给react-native-render-html的表格内容。
+轻量级的表格渲染器，用于在移动端渲染marked或其它库将markdown内容转换为HTML后提交给[react-native-render-html](https://github.com/meliorence/react-native-render-html)的表格内容。
 
 可以避免引入额外的依赖，
 不使用webview，直接使用原生组件渲染表格内容，性能良好。
